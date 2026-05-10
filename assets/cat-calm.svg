@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-labelledby="title desc">
+  <title id="title">猫咪安抚洗护插画</title>
+  <desc id="desc">猫咪在独立猫区的柔软毛巾上接受安抚洗护。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e9f6f3"/>
+      <stop offset="1" stop-color="#fff0e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="360" fill="url(#bg)"/>
+  <rect x="86" y="238" width="528" height="63" rx="31" fill="#dff1eb"/>
+  <rect x="126" y="270" width="448" height="38" rx="19" fill="#bfe5dc"/>
+  <g transform="translate(197 52)">
+    <path d="M74 117 41 43c40 0 71 25 86 62Z" fill="#2c3940"/>
+    <path d="M227 117l33-74c-40 0-71 25-86 62Z" fill="#2c3940"/>
+    <path d="M53 130c0-74 41-113 98-113s98 39 98 113v53c0 62-44 97-98 97s-98-35-98-97Z" fill="#35454c"/>
+    <path d="M88 128c0-44 25-72 63-72s63 28 63 72v50c0 43-27 68-63 68s-63-25-63-68Z" fill="#f7fbf8"/>
+    <path d="M110 105c17-14 65-14 82 0 19 15 27 44 18 70-8 27-30 45-59 45s-51-18-59-45c-9-26-1-55 18-70Z" fill="#ffffff"/>
+    <circle cx="124" cy="145" r="12" fill="#8abc75"/>
+    <circle cx="178" cy="145" r="12" fill="#8abc75"/>
+    <circle cx="124" cy="145" r="5" fill="#243036"/>
+    <circle cx="178" cy="145" r="5" fill="#243036"/>
+    <path d="M143 166c5-6 12-6 17 0-2 9-15 9-17 0Z" fill="#dd8f8d"/>
+    <path d="M125 183c18 12 34 12 52 0" fill="none" stroke="#5c4747" stroke-width="5" stroke-linecap="round"/>
+    <path d="M68 198c-25-10-55 2-65 29 25 20 62 7 73-18Z" fill="#f7fbf8"/>
+    <path d="M234 198c25-10 55 2 65 29-25 20-62 7-73-18Z" fill="#f7fbf8"/>
+  </g>
+  <path d="M474 87c42 17 69 55 69 99" fill="none" stroke="#f4c75d" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 22"/>
+  <path d="M156 99c-31 23-50 57-50 96" fill="none" stroke="#e8725d" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 22"/>
+  <g fill="#fff" opacity=".95">
+    <circle cx="94" cy="85" r="13"/>
+    <circle cx="610" cy="100" r="18"/>
+    <circle cx="580" cy="74" r="8"/>
+  </g>
+</svg>

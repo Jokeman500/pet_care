@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-labelledby="title desc">
+  <title id="title">宠物皮毛护理插画</title>
+  <desc id="desc">一只蓬松宠物犬正在进行吹护和皮毛护理。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff3df"/>
+      <stop offset="1" stop-color="#e1f2ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="360" fill="url(#bg)"/>
+  <circle cx="116" cy="84" r="42" fill="#f4c75d" opacity=".75"/>
+  <circle cx="592" cy="261" r="74" fill="#dff1eb"/>
+  <g transform="translate(204 56)">
+    <path d="M46 163c-13-62 22-118 90-130 68-12 124 25 137 87 12 61-22 119-90 131S59 225 46 163Z" fill="#f2cfa2"/>
+    <path d="M66 128c-16-18-20-51-6-81 31 4 54 28 61 62Z" fill="#d79a66"/>
+    <path d="M245 128c16-18 20-51 6-81-31 4-54 28-61 62Z" fill="#d79a66"/>
+    <path d="M74 143c-11-53 20-94 81-105 61-10 104 18 115 71l9 43c12 58-21 101-82 112-61 10-105-19-117-77Z" fill="#f7ddb8"/>
+    <path d="M107 144c15-34 79-45 104-19 19 20 25 56 10 84-15 27-45 42-78 35-34-7-56-31-57-62-1-14 7-29 21-38Z" fill="#fff1dc"/>
+    <circle cx="129" cy="157" r="8" fill="#243036"/>
+    <circle cx="190" cy="147" r="8" fill="#243036"/>
+    <path d="M157 169c5-8 15-10 21-3-1 11-15 14-21 3Z" fill="#4b3030"/>
+    <path d="M151 190c15 9 30 7 42-6" fill="none" stroke="#6a453b" stroke-width="5" stroke-linecap="round"/>
+    <path d="M86 225c-32 2-50 18-53 49" stroke="#f7ddb8" stroke-width="30" stroke-linecap="round"/>
+    <path d="M239 199c30-7 53 5 67 33" stroke="#f7ddb8" stroke-width="30" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(85 177)">
+    <rect x="0" y="38" width="94" height="42" rx="21" fill="#e8725d"/>
+    <rect x="70" y="48" width="65" height="22" rx="11" fill="#f2a08e"/>
+    <path d="M133 58c35-22 75-23 116-2" fill="none" stroke="#7fc9bd" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 19"/>
+  </g>
+  <g transform="translate(535 81)">
+    <rect x="0" y="0" width="53" height="145" rx="18" fill="#2f7b68"/>
+    <path d="M13 26h27M13 49h27M13 72h27M13 95h27" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+    <rect x="13" y="128" width="27" height="57" rx="13" fill="#1f5f50"/>
+  </g>
+  <g fill="#ffffff" opacity=".95">
+    <circle cx="116" cy="235" r="12"/>
+    <circle cx="581" cy="66" r="16"/>
+    <circle cx="612" cy="92" r="9"/>
+  </g>
+</svg>

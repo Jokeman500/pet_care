@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-labelledby="title desc">
+  <title id="title">宠物犬造型精修插画</title>
+  <desc id="desc">美容台上的宠物犬正在进行造型修剪。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff7df"/>
+      <stop offset="1" stop-color="#e4f4f2"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="360" fill="url(#bg)"/>
+  <rect x="71" y="257" width="558" height="24" rx="12" fill="#2f7b68"/>
+  <rect x="115" y="279" width="470" height="28" rx="8" fill="#1f5f50"/>
+  <g transform="translate(214 75)">
+    <path d="M78 162h137c40 0 68 28 68 68H28c0-40 19-68 50-68Z" fill="#f1c48e"/>
+    <path d="M64 169c-17-19-19-47-4-71 23 4 41 21 48 45Z" fill="#c88455"/>
+    <path d="M232 169c17-19 19-47 4-71-23 4-41 21-48 45Z" fill="#c88455"/>
+    <path d="M87 93c12-51 105-51 119 0l8 51c7 45-22 78-67 78s-74-33-67-78Z" fill="#f4d3a6"/>
+    <path d="M93 113c21-31 86-31 107 0 9 14 14 34 10 52-6 32-31 53-63 53s-57-21-63-53c-4-18 0-38 9-52Z" fill="#fff2df"/>
+    <circle cx="119" cy="149" r="8" fill="#243036"/>
+    <circle cx="176" cy="149" r="8" fill="#243036"/>
+    <path d="M139 169c5-8 15-8 20 0-3 11-17 11-20 0Z" fill="#3d2b2b"/>
+    <path d="M130 188c12 10 24 10 36 0" fill="none" stroke="#6a453b" stroke-width="5" stroke-linecap="round"/>
+    <path d="M52 209c-16 4-24 16-24 35" stroke="#f1c48e" stroke-width="28" stroke-linecap="round"/>
+    <path d="M244 209c16 4 24 16 24 35" stroke="#f1c48e" stroke-width="28" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(84 82)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 30l52 78" stroke="#7a868b" stroke-width="9"/>
+    <path d="M92 30l-52 78" stroke="#7a868b" stroke-width="9"/>
+    <circle cx="40" cy="28" r="21" stroke="#e8725d" stroke-width="8"/>
+    <circle cx="95" cy="28" r="21" stroke="#e8725d" stroke-width="8"/>
+  </g>
+  <g transform="translate(538 83)">
+    <rect x="21" y="1" width="24" height="121" rx="12" fill="#e8725d"/>
+    <rect x="9" y="96" width="48" height="91" rx="18" fill="#f7d99b"/>
+    <path d="M33 122v54" stroke="#b9814c" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#ffffff" opacity=".9">
+    <circle cx="105" cy="228" r="12"/>
+    <circle cx="606" cy="223" r="15"/>
+    <circle cx="631" cy="198" r="8"/>
+  </g>
+</svg>

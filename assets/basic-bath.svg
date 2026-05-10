@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" role="img" aria-labelledby="title desc">
+  <title id="title">小型犬基础沐浴插画</title>
+  <desc id="desc">一只小狗坐在宠物洗护浴盆中，周围有泡泡和花洒。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e5f5ef"/>
+      <stop offset="1" stop-color="#fff4d4"/>
+    </linearGradient>
+    <linearGradient id="tub" x1="0" x2="1">
+      <stop offset="0" stop-color="#6fc0ad"/>
+      <stop offset="1" stop-color="#2f7b68"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="360" fill="url(#bg)"/>
+  <circle cx="88" cy="76" r="30" fill="#f4c75d" opacity=".75"/>
+  <circle cx="609" cy="72" r="58" fill="#ffffff" opacity=".54"/>
+  <circle cx="598" cy="256" r="84" fill="#dff1eb"/>
+  <g fill="#fff" opacity=".95">
+    <circle cx="120" cy="228" r="16"/>
+    <circle cx="151" cy="204" r="10"/>
+    <circle cx="547" cy="132" r="14"/>
+    <circle cx="575" cy="107" r="8"/>
+    <circle cx="612" cy="148" r="19"/>
+  </g>
+  <path d="M162 247h376c25 0 45 20 45 45v19H117v-19c0-25 20-45 45-45Z" fill="url(#tub)"/>
+  <path d="M132 286h436v28c0 17-14 31-31 31H163c-17 0-31-14-31-31v-28Z" fill="#276b5c"/>
+  <path d="M175 245c9-39 43-70 84-76 18-61 108-64 131-7 50 4 89 43 94 83H175Z" fill="#fff" opacity=".93"/>
+  <g transform="translate(232 65)">
+    <path d="M55 93C44 68 48 30 70 8c28 18 36 50 25 79Z" fill="#c98555"/>
+    <path d="M181 93c11-25 7-63-15-85-28 18-36 50-25 79Z" fill="#c98555"/>
+    <path d="M66 83C81 45 154 43 170 84l8 41c10 55-20 93-60 93s-70-38-60-93Z" fill="#d99b67"/>
+    <path d="M91 88c17-12 41-12 58 0 19 14 28 39 22 64-7 30-28 51-53 51s-46-21-53-51c-6-25 3-50 26-64Z" fill="#f0bd87"/>
+    <circle cx="89" cy="128" r="9" fill="#243036"/>
+    <circle cx="148" cy="128" r="9" fill="#243036"/>
+    <path d="M112 148c5-7 14-7 19 0-2 10-17 10-19 0Z" fill="#4b3030"/>
+    <path d="M101 168c12 13 24 13 36 0" fill="none" stroke="#6a453b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M48 150c-25-4-35 17-24 36 13 22 45 10 45-13" fill="#d99b67"/>
+    <path d="M188 150c25-4 35 17 24 36-13 22-45 10-45-13" fill="#d99b67"/>
+  </g>
+  <g stroke="#8a9aa0" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M546 76h55v94"/>
+    <path d="M546 76c-25 12-37 32-37 58"/>
+  </g>
+  <g fill="#7fc9bd">
+    <circle cx="500" cy="156" r="5"/>
+    <circle cx="520" cy="168" r="5"/>
+    <circle cx="540" cy="180" r="5"/>
+    <circle cx="560" cy="192" r="5"/>
+  </g>
+</svg>
