@@ -420,6 +420,23 @@
       box-shadow: var(--shadow);
     }
 
+    .booking > div:first-child {
+      position: relative;
+      overflow: hidden;
+      min-height: 390px;
+      padding: 28px;
+      border-radius: 8px;
+      background:
+        linear-gradient(90deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.82) 58%, rgba(255, 255, 255, 0.34) 100%),
+        url("assets/cat-calm.svg") center right / cover no-repeat;
+    }
+
+    .booking > div:first-child > * {
+      position: relative;
+      max-width: 430px;
+      z-index: 1;
+    }
+
     .booking h2 {
       margin-bottom: 14px;
       font-size: clamp(30px, 4vw, 44px);
@@ -581,6 +598,11 @@
       }
 
       .booking {
+        padding: 22px;
+      }
+
+      .booking > div:first-child {
+        min-height: 360px;
         padding: 22px;
       }
     }
